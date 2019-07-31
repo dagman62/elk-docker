@@ -1,1 +1,1 @@
-Collect, search and visualise log data with ELK (Elasticsearch 6.2.4, Logstash 6.2.4, Kibana 6.2.4).
+Collect, search and visualise log data with ELK (Elasticsearch 7.2.0, Logstash 7.2.0, Kibana 7.2.0).
